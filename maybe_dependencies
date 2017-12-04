@@ -1,0 +1,7 @@
+# file .built_by
+catkin_make
+# .catkin
+/home/robond/catkin_ws/src
+#.rosfile
+- setup-file:
+    local-name: /home/robond/catkin_ws/devel/setup.sh
